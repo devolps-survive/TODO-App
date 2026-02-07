@@ -39,15 +39,15 @@ The application includes:
 
 ## 2️⃣ Add Todo
 
-Users can add a new todo by typing in the input field and clicking Add Todo
+- Users can add a new todo by typing in the input field and clicking Add Todo
 
-The todo appears dynamically in the list
+- The todo appears dynamically in the list
 
-Input field clears after adding
+- Input field clears after adding
 
-Total todo count updates automatically
+- Total todo count updates automatically
 
-Shows an alert if the input is empty
+- Shows an alert if the input is empty
 
 ## 3️⃣ Todo Item Structure
 
