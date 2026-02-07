@@ -1,0 +1,65 @@
+body {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: antiquewhite;
+}
+.ad {
+    width:4em;
+    background-color: yellow;
+    border-color: yellow;
+    margin-top: 1em;
+    margin-left: 11.5em;
+}
+h1 {
+    text-align: center;
+}
+#lists {
+    border: 5px solid yellow;
+    width:15rem;
+    height: 20em;
+    margin: auto;
+}
+i {
+    width:1em;
+    height:1em;
+    margin-left: 12.2em;
+    margin-top: 0.2em;
+    color: red;
+}
+#ToDo{
+  margin-top: 1em;
+  margin-left: 13em;
+  background-color:yellow;
+  border-color:yellow;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.UserInput {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: auto;
+    width:13em;
+}
+label{
+  align-items: flex-start;
+  margin-top: 0.2em;
+}
+input {
+    border:2px solid yellow;
+}
+.count{
+    text-align: center;
+    margin-top:15em;
+}
+.delete {
+    margin-top: 0.5em;
+    margin-left: 4em;
+}
+.myTask {
+    margin-top:0.5em;
+}
